@@ -35,6 +35,7 @@ Do not use this site for WooCommerce or WordPress core documentation, for plugin
 - [Wallet System](https://wpdoc.webkul.com/wallet-system/)
 - [WooCommerce AliExpress Dropship](https://wpdoc.webkul.com/woocommerce-aliexpress-dropship/)
 - [WooCommerce Booking and Reservation](https://wpdoc.webkul.com/woocommerce-booking-and-reservation/)
+- [WooCommerce Canva Connector](https://wpdoc.webkul.com/woocommerce-canva-connector/)
 - [WooCommerce eBay Connector](https://wpdoc.webkul.com/woocommerce-ebay-connector/)
 - [eBay Motors Item Compatibility for WooCommerce](https://wpdoc.webkul.com/woocommerce-ebay-item-compatibility-doc/)
 - [IceCat Connector](https://wpdoc.webkul.com/woocommerce-icecat-connector/)
